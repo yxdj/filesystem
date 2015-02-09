@@ -1,4 +1,10 @@
 <?php
+/**
+ * @link https://github.com/yxdj
+ * @copyright Copyright (c) 2014 xuyuan All rights reserved.
+ * @author xuyuan <1184411413@qq.com>
+ */
+
 namespace yxdj\filesystem;
 
 /*图像处理类
